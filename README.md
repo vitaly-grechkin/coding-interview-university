@@ -518,7 +518,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [ ] Description:
+    - [x] Description:
         - [x] [Arrays (video)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
         - [x] [UC Berkeley CS61B - Linear and Multi-Dim Arrays (video)](https://archive.org/details/ucberkeley_webcast_Wp8oiO_CZZE) (Start watching from 15m 32s)
         - [x] [Basic Arrays (video)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
@@ -554,7 +554,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [ ] Description:
+    - [x] Description:
         - [x] [Singly Linked Lists (video)](https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists)
         - [x] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
         - [x] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
@@ -583,7 +583,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [x] reverse() - reverses the list
         - [x] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [x] Doubly-linked List
         - [x] [Description (video)](https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists)
         - No need to implement
 
@@ -646,8 +646,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - ### Binary search
     - [x] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [x] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
-    - [ ] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
-    - [ ] Implement:
+    - [x] [detail](https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/)
+    - [x] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
