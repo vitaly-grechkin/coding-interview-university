@@ -658,8 +658,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [x] Good intro:
             [Bit Manipulation (video)](https://www.youtube.com/watch?v=7jkIUgLC29I)
         - [x] [C Programming Tutorial 2-10: Bitwise Operators (video)](https://www.youtube.com/watch?v=d0AwjSpNXR0)
-        - [ ] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-        - [ ] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
+        - [x] [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+        - [x] [Bitwise Operation](https://en.wikipedia.org/wiki/Bitwise_operation)
         - [ ] [Bithacks](https://graphics.stanford.edu/~seander/bithacks.html)
         - [ ] [The Bit Twiddler](http://bits.stephan-brumme.com/)
         - [ ] [The Bit Twiddler Interactive](http://bits.stephan-brumme.com/interactive.html)
@@ -707,7 +707,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [x] [Series (video)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees)
         - starts with symbol table and goes through BST applications
     - [x] [Introduction (video)](https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction)
-    - [ ] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
+    - [x] [MIT (video)](https://www.youtube.com/watch?v=9Jry5-82I68)
     - C/C++:
         - [ ] [Binary search tree - Implementation in C/C++ (video)](https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28)
         - [ ] [BST implementation - memory allocation in stack and heap (video)](https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29)
